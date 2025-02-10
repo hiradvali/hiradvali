@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hiradvali
-- 👀 I’m interested in python, html, css
+- 👀 python, html, css, js
 - 🌱 I’m currently learning git, linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hirad.gama.v@gmail.com
